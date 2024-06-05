@@ -1,6 +1,7 @@
 <template>
   <div>
     <header>
+      <NuxtLink to="/">Nuxt Merch</NuxtLink>
       <nav>
         <ul>
           <li><NuxtLink to="/">Home</NuxtLink></li>
