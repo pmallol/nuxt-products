@@ -10,6 +10,9 @@
         
         <h3 class="font-bold border-b-2 mb-4 pb-2">Product description:</h3>
         <p class="mb-7">{{ product.description}}</p>
+        <button class="btn">
+          <span>Add to Cart</span>
+        </button>
       </div>
     </div>
   </div>
